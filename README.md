@@ -1,4 +1,4 @@
-# Home Assistant Community Add-ons
+# Dockerproxy Home Assistant Community Add-ons 
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
